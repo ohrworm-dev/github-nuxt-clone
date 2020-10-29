@@ -8,5 +8,9 @@
     },
     "dependencies": {
         "nuxt": "^2.14.7"
+    },
+    "devDependencies": {
+        "@nuxt/types": "^2.14.7",
+        "@nuxt/typescript-build": "^2.0.3"
     }
 }
