@@ -1,3 +1,6 @@
 <template>
-    <h1>Hello world!</h1>
+    <div>
+        <img src="/assets/logo.svg">
+        <h1>Sign in to Github</h1>
+    </div>
 </template>
